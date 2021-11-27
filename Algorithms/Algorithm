@@ -1,3 +1,26 @@
+Arrays
+
+1. Sorting
+	a. quick
+	b. merge procedure
+	c. Linear time sorts
+
+2. Binary Heap
+
+3. Mean and order statistics
+
+4. Specific Problems
+
+Strings
+
+1. Pattern searching
+	a. KMP
+	b. Aho corasick
+
+2. Specific Problems
+	a. Suffix Arrays and LCA
+	b. manachers algorithm : Palindromic substring
+
 Graph Algorithm
 
 Traversal
